@@ -1,117 +1,119 @@
-<!-- ███████ ULTRA COMPACT PREMIUM PROFILE ███████ -->
-
+<!-- ====== PREMIUM BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=120&section=header&text=K.%20Mohan%20Rao&fontSize=36&fontAlignY=50" />
+  <img src="YOUR_BANNER_IMAGE_URL" alt="K Mohan Rao Banner" width="100%" />
 </p>
 
+<!-- ====== NAME & TYPING ANIMATION ====== -->
+<h1 align="center">Hi 👋, I'm K. Mohan Rao</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3500&pause=900&color=00E7FF&center=true&vCenter=true&width=600&lines=AI+%26+Full-Stack+Developer;Founder+%40+BrandiQue;Building+Premium+Digital+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Full-Stack+Web+Developer;Founder+of+BrandiQue+Web+Solutions;Building+Premium+Digital+Experiences;Future+AI+Engineer;Open+for+Work+%26+Freelance&center=true&width=800&height=45">
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 💎 About Me
 
-### 👤 PROFILE
-**AI & Full-Stack Developer**  
-🎓 BTech AIML — 2027  
-📍 Visakhapatnam, India  
-🚀 Founder — BrandiQue Web Solutions  
+🚀 AI & Full-Stack Web Developer from India  
+🎓 BTech in Artificial Intelligence & Machine Learning (2027)  
+🏢 Founder — **BrandiQue Web Solutions**  
+🌐 Building premium websites & digital products  
+💼 Open for jobs, freelance & collaborations  
 
 ---
 
-### 🏢 WORK
-🌐 brandique.in  
-💼 Freelance + Agency  
-💡 Business-Focused Development  
+## 🔥 Current Focus
+
+- 🚀 Building Premium Business Websites  
+- 🤖 Advanced AI Tools & Automation  
+- 📈 Scaling BrandiQue Web Solutions  
+- 💡 Creating High-Impact Digital Products  
 
 ---
 
-### 🔥 FOCUS
-• Premium Websites  
-• AI Automation  
-• Digital Products  
-• Startup Growth  
+## 🧠 Tech Stack
 
-</td>
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,java,sql" />
+</p>
 
-<td width="50%" valign="top">
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,wordpress" />
+</p>
 
-### 🛠️ STACK
+### 🤖 AI & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-**Languages**  
-Python • JS • Java • C/C++ • SQL  
+Machine Learning • Deep Learning • GenAI • Data Science  
 
-**Web**  
-HTML • CSS • React • Node • WP  
-
-**AI**  
-ML • DL • GenAI • Data Science  
-
-**Design**  
-Figma • PS • AI • Video • Branding  
+### 🎨 Design & Creative
+Figma • Photoshop • Illustrator • Video Editing • Branding  
 
 ---
 
-### 📂 PROJECT
-**BrandiQue Web Solutions**  
-Premium web & software solutions  
+## 🚀 Featured Project
 
-</td>
-</tr>
-</table>
+### 🏢 BrandiQue Web Solutions
+Premium Web & Software Solutions Company  
 
----
+🔹 Business Websites  
+🔹 Portfolio Sites  
+🔹 E-commerce Solutions  
+🔹 Branding & Design  
+🔹 Custom Development  
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📊 STATS
-<img src="https://github-readme-stats.vercel.app/api?username=mohansai5942&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔥 STREAK
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohansai5942&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+🌐 Website: https://www.brandique.in/
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center">
+## 🏆 Achievements
 
-### 🧠 LANGUAGES
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai5942&layout=compact&theme=tokyonight&hide_border=true"/>
+✨ Founder of BrandiQue Web Solutions  
+✨ Multiple Websites Designed & Deployed  
+✨ Strong Multi-Skill Tech Stack  
+✨ Passionate Builder & Problem Solver  
 
-</td>
+---
 
-<td width="50%" align="center">
+## 📊 GitHub Stats
 
-### 🌐 CONNECT
-<a href="https://www.linkedin.com/in/mohanrao5942/">LinkedIn</a> • 
-<a href="https://www.instagram.com/mohan_creator/">Instagram</a> • 
-<a href="mailto:mohansai5942@gmail.com">Email</a> • 
-<a href="https://www.brandique.in/">Website</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohansai5942&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai5942&layout=compact&theme=tokyonight" />
+</p>
 
-<br><br>
+---
 
-<img src="https://komarev.com/ghpvc/?username=mohansai5942&color=00E7FF&style=flat"/>
+## 🔥 Contribution Streak
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohansai5942&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.brandique.in/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<a href="https://creator.brandique.in/"><img src="https://img.shields.io/badge/Creator%20Site-111?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mohanrao5942/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.instagram.com/mohan_creator/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
+<a href="mailto:mohansai5942@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 💬 Quote
+
+> "Building the future with code, creativity, and AI."
 
 ---
 
 <p align="center">
-💎 Build • Scale • Innovate 💎
+  ⭐ If you like my work, consider following me!
 </p>
