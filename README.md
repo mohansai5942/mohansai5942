@@ -8,13 +8,17 @@
 
 <br/>
 
+<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/mohansai5942/mohansai5942/main/assets/brandique-logo.svg" width="92%" alt="BrandiQue Web Solutions" /></a>
+
+<br/>
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=F59E0B&center=true&vCenter=true&width=950&height=55&lines=BUILDING+AI-POWERED+PRODUCTS;FULL-STACK+WEB+%7C+AI+%7C+AUTOMATION;FOUNDER+%40+BRANDIQUE+WEB+SOLUTIONS;DESIGNING+%2B+ENGINEERING+%2B+SHIPPING;TURNING+IDEAS+INTO+REAL+DIGITAL+EXPERIENCES" alt="Typing animation" />
 
 <br/>
 
 <a href="https://www.brandique.in/"><img src="https://img.shields.io/badge/✦%20BRANDIQUE%20WEB%20SOLUTIONS-F59E0B?style=for-the-badge&labelColor=0B0F19&logoColor=111827" alt="BrandiQue" /></a>
-<a href="https://www.linkedin.com/in/mohanrao5942/"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="mailto:mohansai5942@gmail.com"><img src="https://img.shields.io/badge/LET%27S%20BUILD-111827?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mohanrao5942/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:mohansai5942@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LET%27S%20BUILD-111827?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
 
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=mohansai5942&style=flat-square&color=F59E0B&label=PROFILE+VIEWS" alt="Profile views" />
@@ -124,7 +128,7 @@ Machine Learning · Deep Learning · Generative AI · AI Agents · Automation ·
 ## 🚀 SIGNATURE BUILD — BRANDIQUE
 
 <div align="center">
-<a href="https://www.brandique.in/"><img src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=BRANDIQUE&fontSize=48&fontColor=F59E0B&desc=Web%20%7C%20Branding%20%7C%20AI%20%7C%20Automation&descSize=18&descAlignY=72&color=0B0F19&stroke=F59E0B&strokeWidth=1" width="90%" alt="BrandiQue" /></a>
+<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/mohansai5942/mohansai5942/main/assets/brandique-logo.svg" width="92%" alt="BrandiQue Web Solutions" /></a>
 </div>
 
 **BrandiQue Web Solutions** is my digital solutions brand for businesses that want more than a basic website.
@@ -139,7 +143,7 @@ Machine Learning · Deep Learning · Generative AI · AI Agents · Automation ·
 - ◈ Custom web applications & digital products
 
 <div align="center">
-<a href="https://www.brandique.in/"><img src="https://img.shields.io/badge/EXPLORE%20BRANDIQUE-111827?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Explore BrandiQue" /></a>
+<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/EXPLORE%20BRANDIQUE-111827?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Explore BrandiQue" /></a>
 </div>
 
 ---
@@ -212,10 +216,10 @@ Business solutions
 ## 🌍 LET'S CONNECT
 
 <div align="center">
-<a href="https://www.brandique.in/"><img src="https://img.shields.io/badge/WEBSITE-brandique.in-111827?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Website" /></a>
-<a href="https://creator.brandique.in/"><img src="https://img.shields.io/badge/CREATOR%20SITE-creator.brandique.in-111827?style=for-the-badge&logo=vercel&logoColor=F59E0B" alt="Creator site" /></a>
+<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WEBSITE-brandique.in-111827?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Website" /></a>
+<a href="https://creator.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CREATOR%20SITE-creator.brandique.in-111827?style=for-the-badge&logo=vercel&logoColor=F59E0B" alt="Creator site" /></a>
 <a href="https://www.linkedin.com/in/mohanrao5942/"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/mohan_creator/"><img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="https://www.instagram.com/mohan_creator/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </div>
 
 <br/>
