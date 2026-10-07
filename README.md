@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/mohansai5942/mohansai5942/main/assets/brandique-logo.svg" width="92%" alt="BrandiQue Web Solutions" /></a>
+<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://files.catbox.moe/0ndf8z.png" width="92%" alt="BrandiQue Web Solutions" oncontextmenu="return false;" draggable="false" /></a>
 
 <br/>
 
@@ -34,6 +34,8 @@
 <td width="58%" valign="top">
 
 ### Hi, I'm Mohan. 👋
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=F59E0B&center=false&vCenter=true&width=620&height=32&lines=AI+%2B+FULL-STACK+%2B+AUTOMATION+%2B+DESIGN" alt="Specialization animation" />
 
 I'm an **AI & Full-Stack Developer** who enjoys turning ideas into **real, usable products**.
 
@@ -128,7 +130,7 @@ Machine Learning · Deep Learning · Generative AI · AI Agents · Automation ·
 ## 🚀 SIGNATURE BUILD — BRANDIQUE
 
 <div align="center">
-<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/mohansai5942/mohansai5942/main/assets/brandique-logo.svg" width="92%" alt="BrandiQue Web Solutions" /></a>
+<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://files.catbox.moe/0ndf8z.png" width="92%" alt="BrandiQue Web Solutions" oncontextmenu="return false;" draggable="false" /></a>
 </div>
 
 **BrandiQue Web Solutions** is my digital solutions brand for businesses that want more than a basic website.
@@ -187,13 +189,15 @@ Business solutions
 
 ---
 
-## 📈 GITHUB COMMAND CENTER
+## ✦ GITHUB COMMAND CENTER
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mohansai5942&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B0F19&title_color=F59E0B&text_color=CBD5E1&icon_color=F59E0B" height="185" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai5942&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F19&title_color=F59E0B&text_color=CBD5E1" height="185" alt="Top languages" />
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=mohansai5942&hide_border=true&background=0B0F19&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=CBD5E1&dates=64748B" alt="GitHub contribution streak" />
+<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohansai5942&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
 </div>
 
 ---
@@ -244,7 +248,7 @@ Business solutions
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:1F2937,50:111827,100:0B0F19" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:1F2937,45:111827,100:0B0F19&animation=fadeIn" width="100%" alt="Footer" />
 
 **Thanks for stopping by. ⭐**
 
