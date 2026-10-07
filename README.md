@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://files.catbox.moe/0ndf8z.png" width="58%" alt="BrandiQue Web Solutions" draggable="false" /></a>
+<a href="https://www.brandique.in/" target="_blank" rel="noopener noreferrer"><img src="https://files.catbox.moe/0ndf8z.png" width="42%" alt="BrandiQue Web Solutions" draggable="false" /></a>
 
 <br/>
 
