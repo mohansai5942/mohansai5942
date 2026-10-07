@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="BrandiQue Web Solutions">
+<defs>
+<filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feFlood flood-color="#FFE500" flood-opacity=".18"/><feComposite in2="b" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="#050505"/>
+<g filter="url(#g)">
+<g fill="none" stroke="#FFE500" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+<path d="M76 62V170c0 74 60 134 134 134s134-60 134-134S284 36 210 36"/>
+<path d="M76 62l40 40"/>
+<path d="M76 62l40-40"/>
+<path d="M344 242l-92-92"/>
+<path d="M252 150l38 4-4 38"/>
+</g>
+<text x="390" y="184" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="800" letter-spacing="2" fill="#FFFFFF">BRANDI</text>
+<text x="800" y="184" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="800" letter-spacing="2" fill="#FFE500">Q</text>
+<text x="868" y="184" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="800" letter-spacing="2" fill="#FFFFFF">UE</text>
+<text x="485" y="242" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" letter-spacing="15" fill="#FFFFFF">WEB SOLUTIONS</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.008;1" dur="4s" repeatCount="indefinite" additive="sum"/>
+</g>
+</svg>
