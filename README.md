@@ -1,171 +1,248 @@
-<!-- ===================== HERO ===================== -->
+<!-- ========================================================= -->
+<!--                    K. MOHAN RAO | PROFILE                   -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:111827&text=K.%20MOHAN%20RAO&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20Developer%20%7C%20Builder%20%7C%20Founder&descAlignY=60&descSize=18" alt="K. Mohan Rao" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=900&lines=AI+%26+Full-Stack+Developer;Building+AI-Powered+Products+%26+Automation;Founder+of+BrandiQue+Web+Solutions;Turning+Ideas+into+Real+Digital+Products;Open+to+Internships%2C+Jobs%2C+Freelance+%26+Collaborations" alt="Typing introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=K.%20MOHAN%20RAO&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Founder&descAlignY=58&descSize=20&animation=fadeIn&color=0:0B0F19,45:111827,100:1F2937" width="100%" alt="K Mohan Rao" />
 
-<p align="center">
-  <a href="https://www.brandique.in/">
-    <img src="https://img.shields.io/badge/BRANDIQUE_WEB_SOLUTIONS-F59E0B?style=for-the-badge&logo=vercel&logoColor=111827" alt="BrandiQue Web Solutions" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohanrao5942/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohansai5942@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohansai5942&style=for-the-badge&color=F59E0B" alt="Profile views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=F59E0B&center=true&vCenter=true&width=950&height=55&lines=BUILDING+AI-POWERED+PRODUCTS;FULL-STACK+WEB+%7C+AI+%7C+AUTOMATION;FOUNDER+%40+BRANDIQUE+WEB+SOLUTIONS;DESIGNING+%2B+ENGINEERING+%2B+SHIPPING;TURNING+IDEAS+INTO+REAL+DIGITAL+EXPERIENCES" alt="Typing animation" />
+
+<br/>
+
+<a href="https://www.brandique.in/"><img src="https://img.shields.io/badge/✦%20BRANDIQUE%20WEB%20SOLUTIONS-F59E0B?style=for-the-badge&labelColor=0B0F19&logoColor=111827" alt="BrandiQue" /></a>
+<a href="https://www.linkedin.com/in/mohanrao5942/"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:mohansai5942@gmail.com"><img src="https://img.shields.io/badge/LET%27S%20BUILD-111827?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=mohansai5942&style=flat-square&color=F59E0B&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
 
-## 👋 About Me
+## ◈ WHO I AM
 
-I'm **K. Mohan Rao**, an **AI & Full-Stack Web Developer** focused on building useful, polished, and scalable digital products.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
-- 🤖 Interested in **AI, Generative AI, Machine Learning & Automation**
-- 🌐 Building modern **websites, dashboards, tools and digital experiences**
-- 🏢 Founder of **BrandiQue Web Solutions**
-- 🎨 Combining **engineering, UI/UX, branding and product thinking**
-- 💼 Open to **internships, jobs, freelance projects and collaborations**
+### Hi, I'm Mohan. 👋
 
-> **I don't just learn technologies — I build with them.**
+I'm an **AI & Full-Stack Developer** who enjoys turning ideas into **real, usable products**.
+
+I work at the intersection of:
+
+**AI × Software Engineering × Design × Business**
+
+My focus is not simply collecting technologies. I care about **building, shipping, improving, and creating measurable value**.
+
+🎓 B.Tech — Artificial Intelligence & Machine Learning  
+🤖 AI / GenAI / Automation enthusiast  
+🌐 Full-Stack Web Developer  
+🏢 Founder — **BrandiQue Web Solutions**  
+🎨 UI/UX & Digital Product Builder  
+💼 Open to opportunities & collaborations
+
+</td>
+<td width="42%" valign="top">
+
+### ⚡ At a Glance
+
+**ROLE**  
+AI & Full-Stack Developer
+
+**EDUCATION**  
+B.Tech — AI & ML
+
+**BUILDING**  
+AI Products + Web Apps
+
+**BUSINESS**  
+BrandiQue Web Solutions
+
+**INTERESTS**  
+AI • Automation • SaaS • UI/UX
+
+**LOCATION**  
+India 🇮🇳
+
+> **Build with purpose.  
+> Ship with discipline.**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I'm Building
+## ✦ WHAT I BUILD
 
-| Area | Focus |
-| --- | --- |
-| 🤖 **AI & Automation** | AI agents, GenAI workflows, intelligent automation |
-| 🌐 **Full-Stack Development** | Modern websites, web apps, dashboards & APIs |
-| 🎨 **UI/UX & Branding** | Clean interfaces, visual identity & digital experiences |
-| 💡 **Digital Products** | Turning practical ideas into usable products |
-| 🏢 **BrandiQue** | Business websites, branding, automation & software solutions |
+<div align="center">
+
+| 🤖 AI & AUTOMATION | 🌐 FULL-STACK | 🎨 DIGITAL EXPERIENCE |
+|:---:|:---:|:---:|
+| AI Agents | Web Applications | UI/UX |
+| GenAI Solutions | Business Websites | Brand Identity |
+| Intelligent Workflows | Dashboards & APIs | Product Design |
+| AI Automation | E-commerce | Creative Development |
+
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## 🧩 TECHNOLOGY STACK
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,sql&perline=10" alt="Languages" />
-</p>
+### 01 — Engineering
 
-### Frontend & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,wordpress,nextjs&perline=10" alt="Web technologies" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,js,cpp,java,sql&theme=dark" alt="Programming languages" /></p>
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=10" alt="AI and ML" />
-</p>
+### 02 — Web Engineering
 
-**Core areas:** Machine Learning · Deep Learning · Generative AI · AI Agents · Automation · Data & APIs
+<p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,wordpress&theme=dark" alt="Web stack" /></p>
 
-### Design & Creative
+### 03 — AI / Machine Learning
+
+<p><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI ML stack" /></p>
+
+**Working areas**
+
+Machine Learning · Deep Learning · Generative AI · AI Agents · Automation · APIs · Data
+
+### 04 — Design & Creative
+
 **Figma** · **Photoshop** · **Illustrator** · **Branding** · **Video Editing** · **Creative Direction**
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,wordpress&perline=10" alt="Tools and platforms" />
-</p>
+### 05 — Tools & Platforms
+
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma&theme=dark" alt="Tools" /></p>
 
 ---
 
-## ⭐ Featured Work
+## 🚀 SIGNATURE BUILD — BRANDIQUE
 
-### 🏢 BrandiQue Web Solutions
+<div align="center">
+<a href="https://www.brandique.in/"><img src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=BRANDIQUE&fontSize=48&fontColor=F59E0B&desc=Web%20%7C%20Branding%20%7C%20AI%20%7C%20Automation&descSize=18&descAlignY=72&color=0B0F19&stroke=F59E0B&strokeWidth=1" width="90%" alt="BrandiQue" /></a>
+</div>
 
-**BrandiQue Web Solutions** is my digital solutions brand focused on helping businesses build a stronger online presence.
+**BrandiQue Web Solutions** is my digital solutions brand for businesses that want more than a basic website.
 
-**Services include:**
-- 🌐 Business & Portfolio Websites
-- 🛒 E-commerce Solutions
-- 🎨 Brand Identity & UI/UX
-- 📈 SEO & Digital Marketing
-- 🤖 AI Automation & AI-powered Solutions
-- ⚙️ Custom Web Development
+**What we build:**
 
-<p>
-  <a href="https://www.brandique.in/">
-    <img src="https://img.shields.io/badge/Visit_BrandiQue_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit BrandiQue" />
-  </a>
-</p>
+- ◈ Premium business & portfolio websites
+- ◈ E-commerce experiences
+- ◈ Brand identity & UI/UX
+- ◈ SEO & digital growth solutions
+- ◈ AI automation & intelligent workflows
+- ◈ Custom web applications & digital products
 
----
-
-## 📌 Current Goals
-
-- Build stronger **production-level AI applications**
-- Improve **full-stack engineering** and system design
-- Create more **real-world automation products**
-- Grow **BrandiQue** into a reliable digital solutions brand
-- Contribute to meaningful **open-source and collaborative projects**
+<div align="center">
+<a href="https://www.brandique.in/"><img src="https://img.shields.io/badge/EXPLORE%20BRANDIQUE-111827?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Explore BrandiQue" /></a>
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 🛠️ CURRENTLY BUILDING
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohansai5942&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai5942&layout=compact&hide_border=true&theme=transparent" height="180" alt="Top languages" />
-</p>
+<table>
+<tr>
+<td width="33%" align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohansai5942&hide_border=true&theme=transparent" alt="GitHub streak" />
-</p>
+### 🤖 AI
 
----
+AI-powered applications  
+AI agents  
+Generative AI workflows  
+Intelligent automation
 
-## 🌐 Find Me Online
+</td>
+<td width="33%" align="center">
 
-<p>
-  <a href="https://www.brandique.in/">
-    <img src="https://img.shields.io/badge/🌐%20Website-brandique.in-111827?style=for-the-badge" alt="Website" />
-  </a>
-  <a href="https://creator.brandique.in/">
-    <img src="https://img.shields.io/badge/✨%20Creator%20Site-creator.brandique.in-111827?style=for-the-badge" alt="Creator site" />
-  </a>
-</p>
+### 🌐 WEB
 
-<p>
-  <a href="https://www.linkedin.com/in/mohanrao5942/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/mohan_creator/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:mohansai5942@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+Modern web apps  
+Premium websites  
+Dashboards  
+APIs & integrations
 
----
+</td>
+<td width="33%" align="center">
 
-## 💬 Philosophy
+### 💡 PRODUCTS
 
-> **Build. Learn. Ship. Improve. Repeat.**
+Digital products  
+Automation systems  
+Creator tools  
+Business solutions
 
-I believe the strongest portfolio is not a list of technologies — it is a trail of **real things built, problems solved, and value delivered**.
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <sub>Thanks for visiting my profile.</sub>
-  <br />
-  <sub>⭐ Follow the journey & build something great.</sub>
-</p>
+## 📈 GITHUB COMMAND CENTER
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,100:0f172a" alt="Footer" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohansai5942&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B0F19&title_color=F59E0B&text_color=CBD5E1&icon_color=F59E0B" height="185" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai5942&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F19&title_color=F59E0B&text_color=CBD5E1" height="185" alt="Top languages" />
+<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=mohansai5942&hide_border=true&background=0B0F19&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=CBD5E1&dates=64748B" alt="GitHub contribution streak" />
+</div>
+
+---
+
+## 🎯 2026 — BUILDING TOWARD
+
+- [x] Build real-world websites & digital products
+- [x] Launch and grow a digital solutions brand
+- [x] Work across development, design & AI
+- [ ] Build stronger production-grade AI systems
+- [ ] Ship more independent AI-powered products
+- [ ] Contribute consistently to open-source
+- [ ] Keep turning ideas into shipped products
+
+> **The goal isn't to know everything.  
+> The goal is to become exceptionally good at building useful things.**
+
+---
+
+## 🌍 LET'S CONNECT
+
+<div align="center">
+<a href="https://www.brandique.in/"><img src="https://img.shields.io/badge/WEBSITE-brandique.in-111827?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Website" /></a>
+<a href="https://creator.brandique.in/"><img src="https://img.shields.io/badge/CREATOR%20SITE-creator.brandique.in-111827?style=for-the-badge&logo=vercel&logoColor=F59E0B" alt="Creator site" /></a>
+<a href="https://www.linkedin.com/in/mohanrao5942/"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/mohan_creator/"><img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+</div>
+
+<br/>
+<div align="center">
+### ✦ OPEN TO
+
+**Internships · Full-Time Roles · Freelance · Collaborations · Interesting Projects**
+
+<a href="mailto:mohansai5942@gmail.com"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-F59E0B?style=for-the-badge&labelColor=0B0F19&logo=gmail&logoColor=111827" alt="Start a conversation" /></a>
+</div>
+
+---
+
+## 🖤 THE PRINCIPLE
+
+<div align="center">
+### **BUILD → SHIP → LEARN → IMPROVE → REPEAT**
+
+*“Technology is the tool. Building something valuable is the skill.”*
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:1F2937,50:111827,100:0B0F19" width="100%" alt="Footer" />
+
+**Thanks for stopping by. ⭐**
+
+<sub>Designed & engineered by K. Mohan Rao</sub>
+</div>
